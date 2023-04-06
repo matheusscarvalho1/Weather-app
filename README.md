@@ -4,6 +4,7 @@
 # API 
 
 ![image](https://user-images.githubusercontent.com/73304785/230393129-be9028c4-4b0f-428d-a76b-d8287c3ab0ea.png)
+
  API utilizada da Open Weather: https://openweathermap.org/api
 
 
