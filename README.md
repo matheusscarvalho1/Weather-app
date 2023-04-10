@@ -25,27 +25,27 @@ Digite o nome da cidade em que deseja pesquisar as condições climáticas atuai
 
 # Exemplos
 
-São Paulo
+<b>São Paulo</b>
 
-![image](https://user-images.githubusercontent.com/73304785/230995244-257aac9f-496a-4f28-abf6-5fefcc5a9f40.png)
+![image](https://user-images.githubusercontent.com/73304785/230996224-f1cb58e7-0279-4657-8935-7fdb32d4f2dd.png)
 
 
 <hr>
 
-Londres
+<b>Londres</b>
 
 ![image](https://user-images.githubusercontent.com/73304785/230995361-2d187ea6-132b-4c5a-947c-34088b5a3ee2.png)
 
 <hr>
 
-Dortmund (Cidade alemã)
+<b>Dortmund (Cidade alemã)</b>
 
 ![image](https://user-images.githubusercontent.com/73304785/230995595-9fc2b5b1-c065-428c-9091-d6a58d47a535.png)
 
 
 <hr>
 
-Paris
+<b>Paris</b>
 
 ![image](https://user-images.githubusercontent.com/73304785/230995868-858e9d3c-6316-42a4-8e01-19fee76c2907.png)
 
